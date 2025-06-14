@@ -115,7 +115,7 @@ class AboutViewController: UIViewController {
         headerView.addSubview(logoImageView)
 
         // Title
-        titleLabel.text = "ℹ️ About badx T DM"
+        titleLabel.text = "ℹ️ About Ddui Cdl puzzles"
         titleLabel.font = UIFont.boldSystemFont(ofSize: 24)
         titleLabel.textColor = .label
         titleLabel.textAlignment = .center
@@ -157,7 +157,7 @@ class AboutViewController: UIViewController {
         contentView.addSubview(heroView)
 
         // Hero title
-        heroTitleLabel.text = "badx T DM"
+        heroTitleLabel.text = "Ddui Cdl puzzles"
         heroTitleLabel.font = UIFont.boldSystemFont(ofSize: 32)
         heroTitleLabel.textColor = .label
         heroTitleLabel.textAlignment = .center

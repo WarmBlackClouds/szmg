@@ -1,6 +1,6 @@
 //
 //  MainMenuViewController.swift
-//  badx T DM
+//  Ddui Cdl puzzles
 //
 //  Created by AI Assistant on 2025/1/10.
 //
@@ -150,7 +150,7 @@ class MainMenuViewController: UIViewController {
         centralHubView.addSubview(logoImageView)
 
         // Title
-        titleLabel.text = "badx T DM"
+        titleLabel.text = "Ddui Cdl puzzles"
         titleLabel.font = UIFont.boldSystemFont(ofSize: 24)
         titleLabel.textColor = .black
         titleLabel.textAlignment = .center
@@ -658,7 +658,7 @@ class MainMenuViewController: UIViewController {
 
     @objc private func inviteFriendsTapped() {
         soundManager.playUISound()
-        let inviteText = "Join me in solving puzzles! Download this amazing game: [App Store Link]"
+        let inviteText = "Join me in solving puzzles! Download this amazing game: https://apps.apple.com/app/id6744737916"
         let activityVC = UIActivityViewController(activityItems: [inviteText], applicationActivities: nil)
         activityVC.popoverPresentationController?.sourceView = inviteFriendsButton
         present(activityVC, animated: true)

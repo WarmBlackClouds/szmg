@@ -485,7 +485,7 @@ class SettingsViewController: UIViewController {
 
     @objc private func creditsTapped() {
         soundManager.playUISound()
-        let alert = UIAlertController(title: "Credits", message: "badx T DM\n\nDeveloped with ❤️\nUsing Swift & UIKit\n\nSpecial thanks to our beta testers!\n\nThanks for playing!", preferredStyle: .alert)
+        let alert = UIAlertController(title: "Credits", message: "Ddui Cdl puzzles\n\nDeveloped with ❤️\nUsing Swift & UIKit\n\nSpecial thanks to our beta testers!\n\nThanks for playing!", preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default))
         present(alert, animated: true)
     }
