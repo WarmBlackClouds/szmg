@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "shuaidebeirenkan_Some_small_pets_available_in_beautiful_maze_ee826c56-fa5e-449d-b443-d6ceaa5c4cd1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
